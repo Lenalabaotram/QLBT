@@ -1,0 +1,77 @@
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\bin\Debug\QuanLyBanThuoc.exe.config
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\bin\Debug\QuanLyBanThuoc.exe
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\bin\Debug\QuanLyBanThuoc.pdb
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.csprojResolveAssemblyReference.cache
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmMain.resources
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.Properties.Resources.resources
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.csproj.GenerateResource.Cache
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.exe
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.pdb
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmDMHH.resources
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmLogin.resources
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmDMKH.resources
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmDMNCC.resources
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmHDBL.resources
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmHDNH.resources
+E:\PTUD\thuchanh\QuanLyBanThuoc\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmNHH.resources
+D:\Downloads\QuanLyBanThuoc\bin\Debug\QuanLyBanThuoc.exe.config
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.exe
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.pdb
+D:\Downloads\QuanLyBanThuoc\bin\Debug\QuanLyBanThuoc.exe
+D:\Downloads\QuanLyBanThuoc\bin\Debug\QuanLyBanThuoc.pdb
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.csprojResolveAssemblyReference.cache
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmDMHH.resources
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmDMKH.resources
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmDMNCC.resources
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmHDBL.resources
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmHDNH.resources
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmLogin.resources
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmMain.resources
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmNHH.resources
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.Properties.Resources.resources
+D:\Downloads\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.csproj.GenerateResource.Cache
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\QuanLyBanThuoc.exe.config
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\QuanLyBanThuoc.exe
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\QuanLyBanThuoc.pdb
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\stdole.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.csprojResolveAssemblyReference.cache
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmDMHH.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmDMKH.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmDMNCC.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmHDX.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmLogin.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmMain.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.frmNHH.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.HDN1.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.Properties.Resources.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.rprInNHHpre.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.csproj.GenerateResource.Cache
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.exe
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.pdb
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.Shared.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\FlashControlV71.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\ShockwaveFlashObjects.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.rptTongHopNHHpre.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.rptHDNpre.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.InRPtonghop.resources
+D:\PTUDQL\BL Lon\QuanLyBanThuoc\obj\Debug\QuanLyBanThuoc.rptTongHopHDXpre.resources
